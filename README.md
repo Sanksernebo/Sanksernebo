@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Karl-Markus Sangernebo
-- 🌱 I am currently a Junior Software Developer and a teacher at Tartu Vocational College.
+- 🌱 I am currently a Junior Software Developer
 - 📫 How to reach me:
 - LinkedIn: www.linkedin.com/in/Sanksernebo
 - E-mail: karlmarkus.sangernebo@gmail.com
